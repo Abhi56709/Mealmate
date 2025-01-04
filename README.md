@@ -1,9 +1,9 @@
-# MealMate
+# 🍴 MealMate
 A full-stack food Ordering platform that allows customers to browse restaurants, place orders, and make payments while allowing vendors to manage their restaurant details, orders, and menus. The platform includes secure user authentication and role-based access control to ensure only authorized users can access specific resources.
 
 ## Features
 
-### Customer Features:
+### 🛒Customer Features:
 - **Customer Registration and Login:** Customers can register and log in to place an order. Only active users can log in.
 - **Profile Management:** Customers can edit their personal details (name, email, etc.).
 - **Order Management:** Customers can view their order history, including vendor, items, total price, and order status.
