@@ -52,7 +52,6 @@ A full-stack food Ordering platform that allows customers to browse restaurants,
 
 ## Security Considerations:
 - **Data Validation:** Ensure that all user inputs are validated and sanitized to prevent SQL injection and XSS attacks.
-- **Encryption:** Use SSL/TLS for secure communication and store passwords using a secure hashing algorithm (e.g., bcrypt).
 - **Role-based Access Control:** Ensure that only authorized users can access specific resources.
 
 ## Installation Instructions
