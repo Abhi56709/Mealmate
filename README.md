@@ -1,5 +1,4 @@
 # MealMate
-[![Watch the demo] (https://shorturl.at/Su85p)  : Password: Priya@123
 A full-stack food Ordering platform that allows customers to browse restaurants, place orders, and make payments while allowing vendors to manage their restaurant details, orders, and menus. The platform includes secure user authentication and role-based access control to ensure only authorized users can access specific resources.
 
 ## Features
@@ -81,3 +80,6 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Push to your fork and submit a pull request.
+<br></br>
+
+[![Watch the demo] (https://shorturl.at/Su85p)  : Password: Priya@123
