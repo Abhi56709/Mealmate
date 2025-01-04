@@ -9,22 +9,22 @@ A full-stack food Ordering platform that allows customers to browse restaurants,
 - **Order Management:** Customers can view their order history, including vendor, items, total price, and order status.
 - **Marketplace:** Customers can browse a marketplace of approved restaurants.
 - **Order Placement:** Customers can place orders from multiple vendors and view available menus.
-- **Payment:** PayPal integration for order payments.
+- **Payment:** PayPal integration for order payments.💳
 - **Access Control:** Unauthorized access to vendor-specific links or pages results in an error message.
 
-### Vendor Features:
+### 🏪 Vendor Features:
 - **Vendor Registration and Login:** Vendors can register and log in to manage their restaurant and orders.
 - **Restaurant Management:** Vendors can add and edit restaurant details, categories, menu items, and opening hours.
 - **Order Management:** Vendors can view and manage orders placed for their restaurant, including customer information, items ordered, and payment status.
 - **Access Control:** Unauthorized access to customer-specific pages results in an error message.
 - **Marketplace Display:** Vendors' restaurants are displayed in the marketplace only after backend approval.
 
-### Backend Features:
+### 📦 Backend Features:
 - **Approval Process:** New restaurant listings must be approved by the backend before being visible in the marketplace.
 - **User Management:** Admins can manage customer and vendor accounts, activating/deactivating users as needed.
 - **Order Verification:** Vendors can verify and update the status of orders placed at their restaurants.
 
-### Error Handling and Access Control:
+### 📋Error Handling and Access Control:
 - **Unauthorized Access:** Users trying to access pages or resources they don't have permission to should be redirected to an "Unauthorized User" page.
 - **Authentication and Authorization:** Both customers and vendors must authenticate before accessing specific functionalities.
 
