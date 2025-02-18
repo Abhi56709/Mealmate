@@ -1,3 +1,4 @@
+# Learn to Build Project Step by Step Here: https://docs.google.com/document/d/1Zu0MjYxPa8BywY2Yuuj729Nh6BVGlovS/edit?usp=sharing&ouid=101259344701010365014&rtpof=true&sd=true
 # 🍴 MealMate
 A full-stack food Ordering platform that allows customers to browse restaurants, place orders, and make payments while allowing vendors to manage their restaurant details, orders, and menus. The platform includes secure user authentication and role-based access control to ensure only authorized users can access specific resources.
 
@@ -83,4 +84,4 @@ Push to your fork and submit a pull request.
 
 [![Watch the demo] (https://shorturl.at/Su85p)  : Password: Priya@123
 
-Learn to Build Project Step by Step Here: https://docs.google.com/document/d/1Zu0MjYxPa8BywY2Yuuj729Nh6BVGlovS/edit?usp=sharing&ouid=101259344701010365014&rtpof=true&sd=true
+
