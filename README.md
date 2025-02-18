@@ -82,3 +82,5 @@ Push to your fork and submit a pull request.
 <br></br>
 
 [![Watch the demo] (https://shorturl.at/Su85p)  : Password: Priya@123
+
+Learn to Build Project Step by Step Here: https://docs.google.com/document/d/1Zu0MjYxPa8BywY2Yuuj729Nh6BVGlovS/edit?usp=sharing&ouid=101259344701010365014&rtpof=true&sd=true
